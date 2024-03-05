@@ -19,5 +19,6 @@ Color Palette: Choose a color palette that reflects the values and branding of C
    Once the landing page is coded and ready, deploy it using GitHub Pages to make it accessible to users worldwide. Follow the instructions provided by GitHub to deploy your site.
 
 ## Conclusion :
-    By following the wireframes and making informed design decisions, create a visually appealing and user-friendly landing page for Colmar Academy. Your contribution will help attract visitors and showcase the excellence of the institution.
+    By following the wireframes and making informed design decisions, create a visually appealing and user-friendly landing page for Colmar Academy. Your contribution will help a
+    ttract visitors and showcase the excellence of the institution.
 
